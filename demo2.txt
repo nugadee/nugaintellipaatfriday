@@ -1,1 +1,2 @@
 this is to understand how git diff works
+updated the new file demo2.txt
