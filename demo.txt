@@ -4,4 +4,4 @@ third line
 updated by my colleauge
 updated the file to understand git fetch
 updated the feature branch
-updated for git poll scm 
+updated the line to check poll scm 
